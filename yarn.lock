@@ -13421,7 +13421,7 @@ shiki@^0.1.6:
     shiki-themes "^0.1.7"
     vscode-textmate "https://github.com/octref/vscode-textmate"
 
-shiki@^0.2.3:
+shiki@^0.2.4:
   version "0.2.4"
   resolved "https://registry.yarnpkg.com/shiki/-/shiki-0.2.4.tgz#e43d90e1d49a9ca03021fcc6dfcb3b63bd136558"
   integrity sha512-Dn924XZ563evpPGa1bVERLy0eJCxjNMcxmxqhyTjXY/4wgL6R2eS2vJyGM0GW7FMLcXetSTIqog+LaNCJiYFUw==
@@ -15126,10 +15126,6 @@ vscode-textmate@^5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/vscode-textmate/-/vscode-textmate-5.2.0.tgz#01f01760a391e8222fe4f33fbccbd1ad71aed74e"
   integrity sha512-Uw5ooOQxRASHgu6C7GVvUxisKXfSgW4oFlO+aa+PAkgmH89O3CXxEEzNRNtHSqtXFTl0nAC1uYj0GMSH27uwtQ==
-
-"vscode-textmate@git+https://github.com/octref/vscode-textmate.git":
-  version "4.0.1"
-  resolved "git+https://github.com/octref/vscode-textmate.git#e65aabe2227febda7beaad31dd0fca1228c5ddf3"
 
 "vscode-textmate@https://github.com/octref/vscode-textmate":
   version "4.0.1"
